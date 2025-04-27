@@ -1,0 +1,16 @@
+[
+  {
+    "timestamp": "04/27/2025, 09:36:30",
+    "regOrganization": "Christian Comm",
+    "language": "English",
+    "tab": "Zip Code",
+    "search": "Zip Code",
+    "value": "",
+    "status": "success",
+    "week": 17,
+    "source": {
+      "function": "log-usage",
+      "environment": "development"
+    }
+  }
+]
